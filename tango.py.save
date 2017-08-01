@@ -1,0 +1,10 @@
+global pareja #cantidad de p m = [] #una lista mujeres
+global h = [] # una lista de hombres
+
+pareja = input()
+
+for i in range(0,pareja):
+	m[i] = input('>')
+	h[i] = input('>>')
+ 
+
